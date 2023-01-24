@@ -1,6 +1,6 @@
-#Data structure
+# Data structure
 
-#problem
+# problem
 
 Sometimes you get api responses that may not be in the structure you want. But you have to use it
 anyway.
